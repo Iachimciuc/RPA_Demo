@@ -1,5 +1,5 @@
 RPA project contains:
-<div class = "text-green">
+<div class = "text-green mb-2">
 + Message Box
 + Input Box
 + Get Mouse position
