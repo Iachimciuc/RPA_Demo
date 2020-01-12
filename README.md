@@ -1,6 +1,4 @@
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 
 RPA project contains:
@@ -8,10 +6,6 @@ RPA project contains:
 Message Box
 Input Box
 Get Mouse position
-</div>
-
-<div class="text-green mb-2 ml-4">
-  .text-green on white
 </div>
 
 Legend:
