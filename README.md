@@ -1,7 +1,9 @@
 RPA project contains:
-'+' Message Box
-'+' Input Box
-'+' Get Mouse position
+<div class = "text-green">
++ Message Box
++ Input Box
++ Get Mouse position
+</div>
 
 Legend:
 '+' is new activities
