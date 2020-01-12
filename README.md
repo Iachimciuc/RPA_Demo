@@ -3,3 +3,4 @@ RPA project contains:
 + Input Box
 + Get Mouse position
 + Type text
++ Send Hot Key
