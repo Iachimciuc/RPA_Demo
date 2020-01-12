@@ -1,3 +1,8 @@
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
+
 RPA project contains:
 <div class="text-green mb-2">
 Message Box
